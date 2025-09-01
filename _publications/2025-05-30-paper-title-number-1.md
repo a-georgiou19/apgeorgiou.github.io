@@ -3,12 +3,12 @@ title: "Effect of Solar Wind and Micrometeoroid Impact on the Lunar Water Cycle:
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The presence of OH/H2O molecules has been detected on the lunar surface. While solar wind implanted protons are a source of the observed OH/H2O, other processes such as micrometeoroid impacts also affect the lunar water cycle. We present atomistic scale simulations on the effect of solar wind implanted hydrogen and micrometeoroid impact on the lunar water cycle. Results show a clear indication of the effect of both initial hydrogen profile and micrometeoroid impact characteristics (angle, size) on the overall water formation and retention.'
 date: 2025-05-30
-venue: 'Journal 1'
+venue: 'Journal of Geophysical Research: Planets'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We have used molecular dynamics (MD) simulations to better understand the role of solar wind (SW) implanted hydrogen and micrometeoroid impacts on the lunar water cycle. Our simulations consider both the effect of initial hydrogen implantation profile along with the impact characteristics of the micrometeoroid (angle, size). Results show that water formation is strongly influenced by the initial depth location of hydrogen in the lunar soil, along with the impactor's characteristics. When hydrogen is distributed (instead of near surface) we find that nearly all of the water formed after a micrometeoroid impact was retained in the substrate. We also observe an increase in water production when micrometeoroids impact the surface at a normal angle compared to more glancing oblique impacts. In contrast, when micrometeoroids impact the surface of a substrate with near surface hydrogen we observe water loss characteristics and little retention. We also use these models to study the mechanism of water production within the substrate.

@@ -13,3 +13,10 @@ citation: 'Georgiou, A., Huang, Z., Yeo, L. H., Farrell, W., Verkercke, S., Lewi
 
 ---
 We have used molecular dynamics (MD) simulations to better understand the role of solar wind (SW) implanted hydrogen and micrometeoroid impacts on the lunar water cycle. Our simulations consider both the effect of initial hydrogen implantation profile along with the impact characteristics of the micrometeoroid (angle, size). Results show that water formation is strongly influenced by the initial depth location of hydrogen in the lunar soil, along with the impactor's characteristics. When hydrogen is distributed (instead of near surface) we find that nearly all of the water formed after a micrometeoroid impact was retained in the substrate. We also observe an increase in water production when micrometeoroids impact the surface at a normal angle compared to more glancing oblique impacts. In contrast, when micrometeoroids impact the surface of a substrate with near surface hydrogen we observe water loss characteristics and little retention. We also use these models to study the mechanism of water production within the substrate.
+
+## A video of a micrometeoroif impact
+
+<video controls style="width:100%; max-width:800px; display:block; margin: 2rem auto; border-radius:8px;">
+    <source src="{{ site.url }}{{ site.baseurl }}/images/JGR_2025/MMI_12A_9NM_MP4.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>

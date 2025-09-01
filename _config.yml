@@ -22,7 +22,7 @@ repository               : "a-georgiou19/apgeorgiou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "a-georgiou19/apgeorgiou.github.io/images/anastasis.jpg"
   name             : "Anastasis Georgiou"
   pronouns         : "He/Him"  
   bio              : "I use atomic-scale simulations to study space weathering on planetary and material surface processes."

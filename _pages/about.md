@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD student in Mechanical Engineering at Memorial University of Newfoundland**, where I a member of the **At. Astra Research Group**. My work combines **molecular dynamics simulations** with planetary and materials science to uncover how **space weathering** transforms the surfaces of airless bodies (like the Moon and Mercury) and materials (like nanocomposites).
+I am a **PhD student in Mechanical Engineering at Memorial University of Newfoundland**, where I am member of the **At. Astra Research Group**. My work combines **molecular dynamics simulations** with planetary and materials science to uncover how **space weathering** transforms the surfaces of airless bodies (like the Moon and Mercury) and materials (like nanocomposites).
 
 🌑 **Surface chemistry across planets and materials**  
 I study surfaces as active chemical systems — whether lunar regolith, mercurian soil, small-body dust, or engineered nanocomposites. Under solar wind ion implantation and micrometeoroid impact, these surfaces undergo bond-breaking, recombination, and rapid diffusion that produce and release volatiles (e.g. OH, H₂O, Na), sputter atoms and molecules, and permanently change material properties. Molecular dynamics lets us watch these transformations atom-by-atom, linking laboratory and spacecraft signals to the physics that produced them.

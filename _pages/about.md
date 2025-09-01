@@ -1,30 +1,38 @@
 ---
 permalink: /
-title: "Anastasis Georgiou"
+title: "Welcome to my page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a **PhD student in Mechanical Engineering at Memorial University of Newfoundland**, where I a mamber of **At. Astra Research Group**. My work combines **molecular dynamics simulations** with planetary science to uncover how **space weathering** transforms the surfaces of airless bodies like the Moon and Mercury.
+I am a **PhD student in Mechanical Engineering at Memorial University of Newfoundland**, where I a mamber of **At. Astra Research Group**. My work combines **molecular dynamics simulations** with planetary and materials science to uncover how **space weathering** transforms the surfaces of airless bodies (like the Moon and Mercury) and materials.
 
-🌑 **How does the Moon make its own water?**  
-My research reveals the hidden chemistry of solar wind and micrometeoroid impacts, showing how they drive the formation, retention, and release of water and other volatiles. These atomic-scale insights help explain puzzling spacecraft observations and reshape our understanding of planetary surface–exosphere interactions.
+🌑 **Surface chemistry across planets and materials**  
+I study surfaces as active chemical systems — whether lunar regolith, mercurian soil, small-body dust, or engineered nanocomposites. Under solar wind ion implantation and micrometeoroid impact, these surfaces undergo bond-breaking, recombination, and rapid diffusion that produce and release volatiles (e.g. OH, H₂O, Na), sputter atoms and molecules, and permanently change material properties. Molecular dynamics lets us watch these transformations atom-by-atom, linking laboratory and spacecraft signals to the physics that produced them.
 
-🧪 **Why does this matter?**  
-Space weathering alters the chemistry, optical properties, and durability of planetary materials. By modelling adsorption, diffusion, and sputtering processes at the atomic level, I provide a mechanistic view of how materials respond to extreme environments. This work not only advances planetary science, but also contributes to **materials research under radiation and impact conditions** — with applications ranging from **lunar resource utilization** to **nuclear materials design**.
+![Simulation screenshot](/images/final.png)
+
+🧪 **From atomic mechanisms to practical outcomes**  
+This isn’t purely academic. The same processes that drive exosphere composition and surface hydration also control how real materials age and fail under radiation and impact. By quantifying adsorption/desorption kinetics, sputtering yields, and material damage pathways my research:  
+- helps planetary scientists interpret volatile measurements and exospheric variability;  
+- informs the design of materials (aerospace, nuclear, and exploration hardware) with improved radiation tolerance and impact resilience;  
+- provides predictive inputs for multiscale models that scale atomistic behavior up to mission- and system-level forecasts.
+   
+The result is research that simultaneously advances our understanding of the Solar System and delivers actionable knowledge for materials engineering.
 
 ### 🔬 Research Highlights
-- **Water formation on the Moon** – First-principles simulations showing solar wind and micrometeoroid impacts as dual drivers of OH/H₂O chemistry.  
-- **Sodium release from silicates** – Atomistic models of adsorption, diffusion, and desorption processes that regulate exosphere dynamics.  
-- **Molecules sputter too** – Using reactive force fields to reveal that not only atoms, but also complex molecules, can be ejected under solar wind bombardment.
+- **Water formation on the Moon** – Molecular dynamics simulations showing solar wind and micrometeoroid impacts as dual drivers of OH/H₂O chemistry.  
+- **Sodium release from silicates** – Atomistic models of adsorption, diffusion, and desorption processes of sodium from silicates.  
+- **Molecules sputter too** – Using reactive molecular dynamics to reveal that not only atoms, but also complex molecules, can be ejected under solar wind bombardment.
+- **Degradation of materials in space** - Using atomic scale simulations to study the degradation mechanisms of advanced materials under the extreme environments of space. 
 
 ### 🚀 Vision
-By bridging **planetary science, materials physics, and computational modeling**, my goal is to answer fundamental questions about the evolution of planetary surfaces — and to pave the way for future exploration and resource use beyond Earth.
+By bridging **planetary/materials science, and computational modeling**, my goal is to answer fundamental questions about the evolution and  surface modifications of planets and materials.
 
 ---
 
-📄 Check out my [Publications](/publications/)  
-🎤 See my [Talks](/talks/)  
-📑 View my [CV](/cv/)  
+📄 Check out my [Publications](https://a-georgiou19.github.io/apgeorgiou.github.io/publications/) 
+🎤 See my [Talks](https://a-georgiou19.github.io/apgeorgiou.github.io/talks/)  
+📑 View my [CV](https://a-georgiou19.github.io/apgeorgiou.github.io/cv/)  

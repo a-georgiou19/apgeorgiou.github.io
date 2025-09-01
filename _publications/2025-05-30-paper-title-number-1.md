@@ -7,7 +7,7 @@ excerpt: 'The presence of OH/H2O molecules has been detected on the lunar surfac
 date: 2025-05-30
 venue: 'Journal of Geophysical Research: Planets'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://apgeorgiou.github.io/files/JGR_SW_MMI_2025.pdf'
+paperurl: 'https://a-georgiou19.github.io/apgeorgiou.github.io/files/JGR_SW_MMI_2025.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Georgiou, A., Huang, Z., Yeo, L. H., Farrell, W., Verkercke, S., Lewis, J. R., et al. (2025). &quot;Effect of solar wind and micrometeoroid impact on the lunar water cycle: A molecular dynamics study.&quot; <i>Journal of Geophysical Research: Planets, 130, e2024JE008687.</i>. https://doi.org/10.1029/2024JE008687.'
 

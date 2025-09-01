@@ -63,12 +63,24 @@ redirect_from:
 
 # Skills
 
-* Skill 1  
-* Skill 2  
-    * Sub-skill 2.1  
-    * Sub-skill 2.2  
-    * Sub-skill 2.3  
-* Skill 3
+**Programming & scripting**  
+* Python · C++ · MATLAB & Simulink · Arduino
+
+**Atomistic / simulation tools**  
+* LAMMPS · ReaxFF / reactive MD workflows
+
+**CFD & FEA / multiphysics**  
+* StarCCM+ · ABAQUS · COMSOL Multiphysics
+
+**CAD & design**  
+* CATIA V5 · Fusion 360
+
+**Other tools & hardware**  
+* Arduino hardware & embedded control
+
+**Languages**  
+* English · Greek
+
 
 # Publications
 

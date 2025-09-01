@@ -7,6 +7,7 @@ excerpt: 'We used molecular dynamics simulations to investigate how sodium (Na) 
 date: 2025-08-26
 venue: 'The Planetary Science Jounral'
 paperurl: 'http://a-georgiou19/apgeorgiou.github.io/files/paper2.pdf'
+bibtexurl: 'https://a-georgiou19.github.io/apgeorgiou.github.io/files/PSJ_Na_Binding.bib'
 citation: 'Anastasis Georgiou et al. (2025). &quot;Atomic-scale Insights into the Effects of Diffusion on the Binding of Adsorbed Sodium on the Surfaces of the Moon and Mercury.&quot; <i>Planet. Sci. J. 6 205</i>. https://dx.doi.org/10.3847/PSJ/adf188.'
 ---
 

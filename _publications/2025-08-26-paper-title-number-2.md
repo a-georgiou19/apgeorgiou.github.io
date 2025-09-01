@@ -17,10 +17,10 @@ The collisionless atmospheres of the Moon and Mercury allow for different space 
 
 ## Methodology in a nutshell 
 
-![Methodology adsorption/diffusion/desorption](PSJ_2025/methodology.png){: style="width:80%; display:block; margin:auto; border-radius:8px;" }  
+![Methodology adsorption/diffusion/desorption]({{ site.url }}{{ site.baseurl }}/images/PSJ_2025/methodology.png){: style="width:80%; display:block; margin:auto; border-radius:8px;" }
 *Figure 1. The simulation methodology in an image.*
 
 ## Some of the results
-![Change of binding energy with time and number of desorbed atoms](PSJ_2025/BEvsTime.png){: style="width:80%; display:block; margin:auto; border-radius:8px;" }  
+![Change of binding energy with time and number of desorbed atoms]({{ site.url }}{{ site.baseurl }}/images/PSJ_2025/BEvsTime.png){: style="width:80%; display:block; margin:auto; border-radius:8px;" }
 *Figure 2. Change of binding energy with time and number of desorbed atoms.*
 

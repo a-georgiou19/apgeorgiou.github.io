@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Understanding Experimental Observations of Hydrogen Desorption via Atomistic Modelling<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
+    "Understanding Experimental Observations of Hydrogen Desorption via Atomistic Modelling<br />55th Lunar and Planetary Science Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
   ],

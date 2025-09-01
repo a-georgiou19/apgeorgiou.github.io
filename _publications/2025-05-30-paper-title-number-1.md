@@ -2,13 +2,13 @@
 title: "Effect of Solar Wind and Micrometeoroid Impact on the Lunar Water Cycle: A Molecular Dynamics Study"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-05-30-paper-title-number-1
 excerpt: 'The presence of OH/H2O molecules has been detected on the lunar surface. While solar wind implanted protons are a source of the observed OH/H2O, other processes such as micrometeoroid impacts also affect the lunar water cycle. We present atomistic scale simulations on the effect of solar wind implanted hydrogen and micrometeoroid impact on the lunar water cycle. Results show a clear indication of the effect of both initial hydrogen profile and micrometeoroid impact characteristics (angle, size) on the overall water formation and retention.'
 date: 2025-05-30
 venue: 'Journal of Geophysical Research: Planets'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://a-georgiou19.github.io/apgeorgiou.github.io/files/JGR_SW_MMI_2025.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'https://a-georgiou19.github.io/apgeorgiou.github.io/files/JGR_SW_MMI_2025_citation.bib'
 citation: 'Georgiou, A., Huang, Z., Yeo, L. H., Farrell, W., Verkercke, S., Lewis, J. R., et al. (2025). &quot;Effect of solar wind and micrometeoroid impact on the lunar water cycle: A molecular dynamics study.&quot; <i>Journal of Geophysical Research: Planets, 130, e2024JE008687.</i>. https://doi.org/10.1029/2024JE008687.'
 
 ---

@@ -12,7 +12,7 @@ I am a **PhD student in Mechanical Engineering at Memorial University of Newfoun
 🌑 **Surface chemistry across planets and materials**  
 I study surfaces as active chemical systems — whether lunar regolith, mercurian soil, small-body dust, or engineered nanocomposites. Under solar wind ion implantation and micrometeoroid impact, these surfaces undergo bond-breaking, recombination, and rapid diffusion that produce and release volatiles (e.g. OH, H₂O, Na), sputter atoms and molecules, and permanently change material properties. Molecular dynamics lets us watch these transformations atom-by-atom, linking laboratory and spacecraft signals to the physics that produced them.
 
-![Simulation screenshot](/images/final.png)
+![Simulation screenshot](final.png)
 
 🧪 **From atomic mechanisms to practical outcomes**  
 This isn’t purely academic. The same processes that drive exosphere composition and surface hydration also control how real materials age and fail under radiation and impact. By quantifying adsorption/desorption kinetics, sputtering yields, and material damage pathways my research:  

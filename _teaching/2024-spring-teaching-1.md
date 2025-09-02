@@ -8,12 +8,13 @@ date: 2024-05-01
 location: "St. John's, NL, Canada"
 ---
 
-I have been the lead Teaching Assistant for Mechanical Design Project I since Spring 2024. In this course the students are asked to design and build an RC Plane (< 2kg) with the goal to lift as much payload as possible.  
+I have been the lead **Teaching Assistant** for Mechanical Design Project I since Spring 2024. In this course, students are tasked with designing and building an RC plane (< 2 kg) with the goal of lifting the maximum possible payload.  
 
 Tasks:
 ======
-* Prepared lectures for students in the areas of design principles, aerodynamics, structures, propulsion and stability.
-* Graded presentations and design reports.
-* Incorporated the BMFA Payload Challenge grading system to encourange students to think outside the box.
-* Focus on the design principles of DFMA. 
+* Prepared lectures on design principles, aerodynamics, structures, propulsion, and stability.
+* Graded student presentations and design reports.
+* Applied the BMFA Payload Challenge (a well established competition) grading system to encourage creativity and innovation.
+* Integrated local and international standards to familiarize students with industry protocols. 
+* Emphasized the design principles of Design for Manufacturing and Assembly (DFMA). 
 

@@ -57,7 +57,7 @@ redirect_from:
 
 **IREROBOT Ltd, Cyprus** — *Summer Intern* (Jul 2021 - Aug 2021)  
 
-* Collaborated in a project to upgrade and adventure park game using Arduino.
+* Collaborated in a project to upgrade an adventure park game using Arduino.
 * Responsible for the Arduino coding and hardware design.
 
 **Cyprus Institute** — *Summer Intern* (Jun 2020 – Jul 2020)  
@@ -72,7 +72,7 @@ redirect_from:
 * Python · C++ · MATLAB & Simulink · Arduino
 
 **Atomistic / simulation tools**  
-* LAMMPS · ReaxFF / reactive MD workflows
+* LAMMPS · BURAI (Quantum Espresso)
 
 **CFD & FEA / multiphysics**  
 * StarCCM+ · ABAQUS · COMSOL Multiphysics
@@ -81,7 +81,7 @@ redirect_from:
 * CATIA V5 · Fusion 360
 
 **Other tools & hardware**  
-* Arduino hardware & embedded control
+* Arduino hardware 
 
 **Languages**  
 * English · Greek

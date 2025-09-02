@@ -43,23 +43,28 @@ redirect_from:
 **Eratosthenes Centre of Excellence (Cyprus University of Technology)** — *Undergraduate Research Intern* (Jul 2022 - Aug 2022)  
 
 * Literature review: remote sensing for forest fires (restoration, mapping).  
-* Remote sensing and Google Earth Engine (Sentinel-2, Landsat) for forest fire mapping.
+* Open-source data acquisition (Sentinel & Landsat).
+* Remote sensing of forest fire mapping using Sentinel-2 and Landsat satellite data in Google Earth Engine (JavaScript).
 
 **AmaDema - Advanced Materials Design & Manufacturing Ltd.** — *Production Engineer Trainee (Placement Year)* (Sep 2021 - May 2022)  
 
-* Fabrication of composite parts and prepreg manufacturing.  
+* Fabrication of composite parts and prepreg manufacturing.
+* Fabrication improvement of technical fabrics. 
 * Performing experimental testing: tensile, compression, thermal and electrical conductivity.  
-* CAD and 3D printing specimen preparation.  
+* CAD and 3D printing specimen preparation.
+* Contributing to the operation and maintenance of technical equipment.
 * Contributed to technical reporting for funding.
 
 **IREROBOT Ltd, Cyprus** — *Summer Intern* (Jul 2021 - Aug 2021)  
 
-* Arduino coding and hardware design for an adventure park upgrade.
+* Collaborated in a project to upgrade and adventure park game using Arduino.
+* Responsible for the Arduino coding and hardware design.
 
 **Cyprus Institute** — *Summer Intern* (Jun 2020 – Jul 2020)  
 
-* Developed mathematical and thermodynamic models for single- and two-phase heat transfer processes in solar energy projects.  
+* Developed mathematical models of heat balance and thermodynamic models for single- and two-phase heat transfer processes in the field of solar energy.
 * Used MATLAB extensively for modelling and analysis.
+* The internship included reading books and journals to determine the correct models to be used.
 
 # Skills
 

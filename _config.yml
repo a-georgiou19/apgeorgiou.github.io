@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anastasis Georgiou, PhD Student Mechanical Engineering"
+title                    : "Anastasis Georgiou, PhD Candidate Mechanical Engineering"
 title_separator          : "-"
 name                     : &name "Anastasis Georgiou"
 description              : &description "personal description"

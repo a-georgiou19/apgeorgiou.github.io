@@ -25,13 +25,18 @@ redirect_from:
 
 # Work experience
 
-**St. John’s Soccer Club (SJSC)** — *Football Coach* (November 2024 - Present)  
+**Materials for Accelerator Technology, Helsinki Accelerator Laboratory, University of Helsinki** — *Visiting Researcher* (February 2026 - present)  
 
-* Volunteering as a football coach for the Boys U10 Tier 3 team.  
+* Developing machine learning interatomic potentials.  
+* Sputtering of silicates relevant to airless bodies.  
+
+**St. John’s Soccer Club (SJSC)** — *Football Coach* (November 2024 - December 2025)  
+
+* Volunteering as a football coach for the Boys U10-U11.  
 * Teaching fundamentals such as teamwork, skill development and rules.  
 * Responsible for training exercises and player development.
 
-**Memorial University of Newfoundland, Canada** — *Teaching Assistant* (January 2024 - Present)  
+**Memorial University of Newfoundland, Canada** — *Teaching Assistant* (January 2024 - August 2025)  
 
 * Mechanical Design Project I  
     * Lectures in aircraft design and sizing (CDR, PDR, DDR), general design and manufacturing methodology (QFD, DFMA).  

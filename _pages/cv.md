@@ -27,6 +27,7 @@ redirect_from:
 
 **Materials for Accelerator Technology, Helsinki Accelerator Laboratory, University of Helsinki** — *Visiting Researcher* (February 2026 - present)  
 
+* Secured $12,000 CAD in funding through Mitacs Globalink.
 * Developing machine learning interatomic potentials.  
 * Sputtering of silicates relevant to airless bodies.  
 
